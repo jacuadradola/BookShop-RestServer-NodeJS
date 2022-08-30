@@ -7,4 +7,3 @@ Este proyecto inicial en NodeJS + MySQL + JWT
 ````
 npm install
 
-```
